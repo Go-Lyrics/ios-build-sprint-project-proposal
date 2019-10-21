@@ -6,14 +6,14 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: Jeffrey Santana, Marlon Raskin
+2. App Name: Go-Lyrics
 3. App Description (3-5 sentences):
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+    Tool that provides lyrics while performing. Users can create their own lists of songs and edit lyrics to create their own renditions.
 4. Your #1 Customer (Who would use your app? Why now?)
-    `<Be specific and focus on a real person>
-5. Github code repository: `<Create a Github Project>`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+    Marlons dad, who performs in a band. Current apps available now are outdated and require external importing
+5. Github code repository: https://github.com/Go-Lyrics/Go-Lyrics
+6. Github Project/Trello Board: https://trello.com/b/ICehQPb8/golyrics
 
 ## Part 1: Brainstorming
 
@@ -51,9 +51,9 @@ Add photos, notes, and sketches from your brain storming session.
 
 Add your top 3-5 features (core functionality) from the Prioritize brainstorming step. These should be things that are part of the MVP (not a log in screen). Build for the demo day (i.e.: Apple never shows how to log into the Apple ID on stage).
 
-1. `<Feature 1: What will this help your #1 Customer do?>`
-2. `<Feature 2 (How will this help the customer?>`
-3. `<Feature 3 ...>`
+1. Search song lyrics : Convenience for users, without having to depend on external sources
+2. Create sets of songs : Group songs together for easier transition/ accessibility
+3. Edit song lyrics : Create songs from scratch or edit current songs to your liking
 
 ## Part 2: Project Plan
 
